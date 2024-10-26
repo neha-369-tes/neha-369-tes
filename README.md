@@ -1,12 +1,35 @@
-- 👋 Hi, I’m Neha
-- 👀 I’m interested in Data science, Machine learning, Neural networks, deep learning and web development
-- 🌱 I’m currently learning Data science and machine learning 
-- 💞️ I’m looking to collaborate on my intrests 
-- 📫 reach me at neha2020es@gmail.com
-- 😄 Pronouns: she/her
+👋 Hi, I’m Neha
 
+I’m a **Data Science and Machine Learning enthusiast** with a keen interest in **neural networks, deep learning, and web development**. 
 
-<!---
-neha-369-tes/neha-369-tes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Learning
+I’m actively enhancing my skills in **data science and machine learning** to tackle real-world challenges. My current focus includes:
+- Data analysis and visualization
+- Machine learning algorithms
+- Neural networks and deep learning techniques
+- Web development basics
+
+## 🤝 Collaboration
+I’m looking to collaborate on projects related to my interests. If you have an idea or project that aligns with my skills, feel free to reach out!
+
+## 📫 Get in Touch
+Feel free to reach out at [neha2020es@gmail.com](mailto:neha2020es@gmail.com).
+
+## 🌟 Skills
+- **Programming Languages**: Python, C, C++, C#
+- **Machine Learning Frameworks**: Scikit-learn, TensorFlow, PyTorch
+- **Data Management**: SQL, MySQL
+- **Web Development**: HTML, CSS, JavaScript
+
+## 📈 Projects
+Here are a few projects I've worked on:
+- **Breast Cancer Prediction**: Developed a logistic regression model to predict breast cancer outcomes using 1980s data.
+- **Customer Purchase Prediction**: Created a decision tree classifier using demographic data to forecast consumer behavior.
+- **Sentiment Analysis**: Analyzed social media data to visualize public opinion on various topics.
+
+## 😄 Pronouns
+She/Her
+
+---
+
+Feel free to modify any section to better fit your style or to include additional information about your projects or experiences!
