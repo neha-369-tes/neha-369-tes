@@ -7,7 +7,7 @@ I’m actively enhancing my skills in **data science and machine learning** to t
 - Data analysis and visualization
 - Machine learning algorithms
 - Neural networks and deep learning techniques
-- Web development basics
+- Web development 
 
 ## 🤝 Collaboration
 I’m looking to collaborate on projects related to my interests. If you have an idea or project that aligns with my skills, feel free to reach out!
