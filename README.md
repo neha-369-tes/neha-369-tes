@@ -22,7 +22,6 @@ class NehaSathish:
     def __init__(self):
         self.role = "AI Engineer & Data Scientist"
         self.education = "B.Tech | Data Science & AI"
-        self.location = "Nandambakkam, Tamil Nadu, IN"
         self.leadership = "President @ Blue Screen Programming Club"
     
     def current_mission(self):
