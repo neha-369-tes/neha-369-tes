@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NEHA%20SATHISH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Neural+Network+Architect;Building+Intelligent+Systems+That+Understand+Humans)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist+%7C+Neural+Network+Architect;Building+Intelligent+Systems+That+Understand+Humans)](https://git.io/typing-svg)
 
 <br/>
 
