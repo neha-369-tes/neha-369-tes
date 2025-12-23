@@ -90,53 +90,15 @@ class NehaSathish:
 
 ## 🛸 DEPLOYED PROJECTS
 
-### 🔬 MEDICAL AI SYSTEMS
-
-**🩺 Breast Cancer Prediction**
-- Logistic Regression diagnostic model
-- Early detection using clinical data
-- High-accuracy classification
-
-**🧬 Healthcare Analytics**
-- Patient outcome prediction
-- Feature importance analysis
-- Model interpretability focus
-
-### 📈 FINANCIAL INTELLIGENCE
-
-**📊 Stock Price Forecaster**
-- LSTM-based time series prediction
-- Real-time Streamlit deployment
-- Interactive data visualization
-
-**🛒 Customer Behavior AI**
-- Decision Tree classification
-- Purchase pattern recognition
-- Demographic feature analysis
-
-### 🧠 COGNITIVE COMPUTING
-
-**💭 Sentiment Analysis Engine**
-- NLP-powered emotion detection
-- Social media data processing
-- Real-time visualization
-
-**🧬 EEG Emotion Analysis** `[ONGOING]`
-- Brain-wave signal interpretation
-- Human emotion classification
-- Neural pattern recognition
-
-### 🚀 INNOVATIVE APPLICATIONS
-
-**🚑 Smart Ambulance System**
-- Emergency detection algorithm
-- Public alert automation
-- Traffic clearance optimization
-
-**🤖 Emotion-Aware Chatbot** `[IN DEV]`
-- Human-centric conversation AI
-- Sentiment-aware responses
-- Context retention system
+| PROJECT | TECHNOLOGY STACK | STATUS |
+|---------|------------------|--------|
+| **🩺 Breast Cancer Prediction** | Logistic Regression, Clinical Data Analysis, Feature Engineering | ![](https://img.shields.io/badge/-DEPLOYED-00ff88?style=flat-square) |
+| **📊 Stock Price Forecaster** | LSTM, Time Series Analysis, Streamlit, Real-time Prediction | ![](https://img.shields.io/badge/-LIVE-00d4ff?style=flat-square) |
+| **🛒 Customer Behavior AI** | Decision Trees, Demographics Analysis, Pattern Recognition | ![](https://img.shields.io/badge/-PRODUCTION-8b5cf6?style=flat-square) |
+| **💭 Sentiment Analysis Engine** | NLP, TF-IDF, Social Media Processing, Data Visualization | ![](https://img.shields.io/badge/-ACTIVE-00ff88?style=flat-square) |
+| **🧬 EEG Emotion Analysis** | Brain-Wave Signals, Neural Patterns, Emotion Classification | ![](https://img.shields.io/badge/-RESEARCH-ff006e?style=flat-square) |
+| **🚑 Smart Ambulance System** | Emergency Detection, Alert Automation, Traffic Optimization | ![](https://img.shields.io/badge/-DEPLOYED-00d4ff?style=flat-square) |
+| **🤖 Emotion-Aware Chatbot** | Human-Centric AI, Sentiment Analysis, Context Retention | ![](https://img.shields.io/badge/-IN_DEV-ffd43b?style=flat-square) |
 
 <br/>
 
@@ -158,24 +120,22 @@ class NehaSathish:
 
 ## 🏆 ACHIEVEMENT REGISTRY
 
-### 🎖️ INTERNSHIPS & PROFESSIONAL EXPERIENCE
+| 🎖️ ROLE | 🏢 ORGANIZATION | 🔬 DOMAIN |
+|---------|-----------------|-----------|
+| **Machine Learning Engineer** | CodSoft | AI Model Development |
+| **Data Science Specialist** | Prodigy Info Tech | Analytics & ML Pipelines |
+| **Python Developer** | Oasis Infobyte | Software Engineering |
+| **Generative AI Researcher** | IIT Madras × Techobytes | LLMs & AI Innovation |
+| **AI/ML Engineer** | Imitate Labs | Neural Networks & Deployment |
 
-```
-► Machine Learning Engineer      │  CodSoft
-► Data Science Specialist        │  Prodigy Info Tech
-► Python Developer               │  Oasis Infobyte
-► Generative AI Researcher       │  IIT Madras × Techobytes
-► AI/ML Engineer                 │  Imitate Labs
-```
+<br/>
 
-### 🌟 COMPETITIONS & LEADERSHIP
-
-```
-✦  48-Hour Buildathon            │  NxtWave × OpenAI
-✦  Club President                │  Blue Screen Programming Club
-✦  NSS Volunteer                 │  Community Service
-✦  Y's Men Assistant             │  Leadership Development
-```
+| 🌟 ACHIEVEMENT | 🎯 EVENT | 🏅 RECOGNITION |
+|----------------|----------|----------------|
+| **48-Hour Buildathon** | NxtWave × OpenAI | Competition Participant |
+| **Club President** | Blue Screen Programming Club | Leadership Role |
+| **NSS Volunteer** | National Service Scheme | Community Service |
+| **Y's Men Assistant** | Y's Men International | Youth Development |
 
 <br/>
 
@@ -195,23 +155,12 @@ class NehaSathish:
 
 ## 🤝 COLLABORATION PROTOCOL
 
-### SEEKING PARTNERSHIPS IN:
-
-**🤖 AI Research**
-- Neural Networks
-- Deep Learning
-
-**🧠 BCI Systems**
-- EEG Analysis
-- Emotion Recognition
-
-**📊 Data Science**
-- ML Pipelines
-- Predictive Models
-
-**🌐 ML Web Apps**
-- Deployment
-- Real-time AI
+| 🎯 DOMAIN | 🔬 FOCUS AREAS | 💡 EXPERTISE |
+|-----------|----------------|--------------|
+| **🤖 AI Research** | Neural Networks, Deep Learning | Advanced Model Architecture |
+| **🧠 BCI Systems** | EEG Analysis, Emotion Recognition | Brain-Computer Interfaces |
+| **📊 Data Science** | ML Pipelines, Predictive Models | End-to-End Solutions |
+| **🌐 ML Web Apps** | Deployment, Real-time AI | Production Systems |
 
 <br/>
 
