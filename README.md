@@ -24,7 +24,7 @@ class NehaSathish:
         self.education = "B.Tech | Data Science & AI"
         self.location = "Nandambakkam, Tamil Nadu, IN"
         self.leadership = "President @ Blue Screen Programming Club"
-        
+    
     def current_mission(self):
         return {
             "learning": ["Deep Learning", "Neural Networks", "EEG Analysis"],
